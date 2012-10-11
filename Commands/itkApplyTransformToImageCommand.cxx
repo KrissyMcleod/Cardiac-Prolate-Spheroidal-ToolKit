@@ -53,7 +53,6 @@
 
 #include "GetPot.h"
 
-//hello
 namespace itk
 {
 
